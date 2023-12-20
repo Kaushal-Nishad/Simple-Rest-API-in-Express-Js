@@ -1,0 +1,11 @@
+function now() { [native code] } - / -::1
+1703083769049 - / -::1
+time - 1703083896831, path - /, Ip -::1
+time - 1703083992439, path - /, Ip -::1
+time - 1703083998142, path - /about, Ip -::1
+time - 1703084809635, path - /about, Ip -::1
+time - 1703084812685, path - /about, Ip -::1
+time - 1703084815789, path - /, Ip -::1
+time - 1703084918267, path - /, Ip -::1
+time - 1703084922947, path - /users, Ip -::1
+time - 1703085494166, path - /users, Ip -::1

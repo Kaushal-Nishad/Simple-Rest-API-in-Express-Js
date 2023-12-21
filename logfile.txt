@@ -1,11 +1,10 @@
-function now() { [native code] } - / -::1
-1703083769049 - / -::1
-time - 1703083896831, path - /, Ip -::1
-time - 1703083992439, path - /, Ip -::1
-time - 1703083998142, path - /about, Ip -::1
-time - 1703084809635, path - /about, Ip -::1
-time - 1703084812685, path - /about, Ip -::1
-time - 1703084815789, path - /, Ip -::1
-time - 1703084918267, path - /, Ip -::1
-time - 1703084922947, path - /users, Ip -::1
-time - 1703085494166, path - /users, Ip -::1
+
+ time - [Thu Dec 21 2023 21:12:49 GMT+0530 (India Standard Time)], path - /api/user/101 , Ip - ::ffff:127.0.0.1
+
+ time - [Thu Dec 21 2023 21:14:07 GMT+0530 (India Standard Time)], path - /api/user/101, Request Method - GET , Ip - ::ffff:127.0.0.1
+
+ [Thu Dec 21 2023 21:14:40 GMT+0530 (India Standard Time)], path - /api/user/101, Request Method - GET , Ip - ::ffff:127.0.0.1
+
+ [2023-12-21T15:45:16.431Z], path - /api/user/101, Request Method - GET , Ip - ::ffff:127.0.0.1
+
+ [Thu Dec 21 2023 21:15:41 GMT+0530 (India Standard Time)], path - /api/user/101, Request Method - GET , Ip - ::ffff:127.0.0.1

@@ -1,6 +1,6 @@
 {
   "name": "exp-simple-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a Simple APIs",
   "main": "index.js",
   "scripts": {
